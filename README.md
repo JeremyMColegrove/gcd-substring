@@ -1,4 +1,4 @@
-# colegrove-s-algorithm-string-periodicity
+# colegrove's-algorithm-string-periodicity
 
 Algorithm Analysis: GCD-Based Repeating Substring Detection
 
