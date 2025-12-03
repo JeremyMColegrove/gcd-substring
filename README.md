@@ -34,7 +34,7 @@ _Cost_: $O(N)$
 #### **Phase 2: GCD Computation**
 Calculating the GCD of the frequency values.
 
-_Cost_: Negligible ($O(|\Sigma|)$).
+_Cost_: Negligible ($O(|Σ|)$).
 
 #### **Phase 3 & 4: The Divisor Loop and Validation**
 We iterate through all divisors of $G$ and perform a check of cost $O(N)$ for each.
