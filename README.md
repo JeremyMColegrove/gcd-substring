@@ -1,4 +1,4 @@
-# GCD-substring-extractor
+# GCD-substring
 
 Algorithm Analysis: GCD-Based All Repeating Substring Detection
 
